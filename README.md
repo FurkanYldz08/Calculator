@@ -1,1 +1,1 @@
-A basic calculator has created in C language. 
+A basic calculator which created in C language. 
